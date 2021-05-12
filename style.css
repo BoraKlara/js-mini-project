@@ -14,7 +14,7 @@ body {
 button {
   background: linear-gradient(to left, pink, purple);
   color: white;
-  padding: 2rem;
+  padding: 3rem;
   border-radius: 5px;
   border: none;
 }
